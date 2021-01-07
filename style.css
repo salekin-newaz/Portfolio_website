@@ -1,0 +1,21 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.name-heighlight{
+ color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 6%;
+    padding: 2%;   
+}
+p{
+    text-align: justify;
+}
+.half-width img{
+    width: 100%;
+}
